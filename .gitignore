@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.DS_Store
+
+# Data (download instructions in README)
+direcciones.csv
+madrid.graphml
+# OSMnx download cache
+cache/

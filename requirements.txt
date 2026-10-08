@@ -1,0 +1,7 @@
+networkx>=3.3
+osmnx>=2.0
+pandas
+numpy
+matplotlib
+scikit-learn
+pytest
